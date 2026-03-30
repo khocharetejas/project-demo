@@ -1,4 +1,4 @@
 # project-demo
 This is my first git repository 
-author-tejas khochare
+author-tejas khochare .
 
